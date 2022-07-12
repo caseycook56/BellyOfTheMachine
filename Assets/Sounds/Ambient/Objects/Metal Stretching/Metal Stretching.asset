@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fdb68dbb0c93b2459fdea950261f604, type: 3}
+  m_Name: Metal Stretching
+  m_EditorClassIdentifier: 
+  audioClipArray:
+  - {fileID: 8300000, guid: b172205a26efad24f95c075e6c0cb507, type: 3}
+  - {fileID: 8300000, guid: 303a393661ee8c744a094d2b1254c599, type: 3}
+  - {fileID: 8300000, guid: 97c3f28eaff0ef848b3d1d9e97b45ce8, type: 3}
+  - {fileID: 8300000, guid: 106f8a43c380d1e43848025639042384, type: 3}
+  - {fileID: 8300000, guid: 0b5a0a0e5d51e3945a224fe63c80910e, type: 3}
+  - {fileID: 8300000, guid: 003757679cdc4534b907013b12df15af, type: 3}
+  enableRandomSpacing: 1
+  minRandomRange: 10
+  maxRandomRange: 20
+  audioClipSettings: {fileID: 4720962929724690489, guid: a5a000903c1c24d4da835dfcb45b423b,
+    type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fdb68dbb0c93b2459fdea950261f604, type: 3}
+  m_Name: falling_screws_array
+  m_EditorClassIdentifier: 
+  audioClipArray:
+  - {fileID: 8300000, guid: 50754c40eaba2d3499af37e8de420fd6, type: 3}
+  - {fileID: 8300000, guid: e9bd1b1341cf8b348903ab331b83dc6c, type: 3}
+  - {fileID: 8300000, guid: b4981253c897e0f469f4c82c04be1ac4, type: 3}
+  - {fileID: 8300000, guid: 6c2ec378d93307347b3f66fb89f6a0a9, type: 3}
+  - {fileID: 8300000, guid: ec0eb0a5bea4d3a46b109ea8c6fbfe9b, type: 3}
+  - {fileID: 8300000, guid: 65fd11916d3fee342833f8887a7c726a, type: 3}
+  - {fileID: 8300000, guid: 2b17bda68b89ddf48bd694355d7f97ee, type: 3}
+  - {fileID: 8300000, guid: 126310547a6165f409ed65ea062f7f57, type: 3}
+  - {fileID: 8300000, guid: 1e7a7f2592414e041a57c902cd9e7b01, type: 3}
+  enableRandomSpacing: 1
+  minRandomRange: 35
+  maxRandomRange: 45
+  audioClipSettings: {fileID: 4720962929724690489, guid: a2e489f9b09b21b4289eb7796c918330,
+    type: 3}

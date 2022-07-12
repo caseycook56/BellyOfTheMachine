@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fdb68dbb0c93b2459fdea950261f604, type: 3}
+  m_Name: Impact Noises
+  m_EditorClassIdentifier: 
+  audioClipArray:
+  - {fileID: 8300000, guid: 63833a884b28c344bb07a2e46a205eb6, type: 3}
+  - {fileID: 8300000, guid: 0fb0f47444f312e4a9b5edadfd182694, type: 3}
+  - {fileID: 8300000, guid: 0ecdc62bd6b992a43a7c0070e26ced6c, type: 3}
+  - {fileID: 8300000, guid: a67bddeea1d899043b94fe10f841ae8b, type: 3}
+  - {fileID: 8300000, guid: 2de68d01341338d4d858d8d4e001b2a6, type: 3}
+  - {fileID: 8300000, guid: 7064cc2788116de4fba455b49e656bfe, type: 3}
+  - {fileID: 8300000, guid: 091bfc7b3daf7cc4ba0e8b32d9fd6749, type: 3}
+  enableRandomSpacing: 1
+  minRandomRange: 10
+  maxRandomRange: 20
+  audioClipSettings: {fileID: 4720962929724690489, guid: a2e489f9b09b21b4289eb7796c918330,
+    type: 3}

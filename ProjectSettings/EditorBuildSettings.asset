@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BetaScenes/Start/NeverUnloaded.unity
+    guid: 4a3a030001fcb5c4a9705ce8f35f5c84
+  - enabled: 1
+    path: Assets/BetaScenes/Start/Start.unity
+    guid: 58c3027679a5d684d8c8c883ea6997c7
+  - enabled: 1
+    path: Assets/DemoScenes/Fluid/Fluid.unity
+    guid: e39bad43908d06d4c9788ace14fa51c1
+  - enabled: 1
+    path: Assets/BetaScenes/Vents/Vents.unity
+    guid: b5d923a514e177f459528e3c04b6c559
+  - enabled: 1
+    path: Assets/BetaScenes/Jail/Jail.unity
+    guid: f19370126d6ccd54aace723eeb046f78
+  - enabled: 1
+    path: Assets/DemoScenes/LightScene/LightScene.unity
+    guid: b35c1358d0bebbb499ab2f2666477b1a
+  - enabled: 1
+    path: Assets/UIScenes/MasterUI.unity
+    guid: d4cd8905e362d5f43a1009804c048bcb
+  m_configObjects: {}

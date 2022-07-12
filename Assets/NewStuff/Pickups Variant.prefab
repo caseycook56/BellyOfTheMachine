@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &246773334328034316
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2015493214, guid: 167630e20469d2b42ad975f8762237e2, type: 3}
+      propertyPath: button
+      value: 
+      objectReference: {fileID: 2800000, guid: 66d811a16e43a1a478f3d3adfdd11435, type: 3}
+    - target: {fileID: 2015493214, guid: 167630e20469d2b42ad975f8762237e2, type: 3}
+      propertyPath: visual
+      value: 
+      objectReference: {fileID: 32900000, guid: c192e4ee2d2c9ec43bb27d841d494c64,
+        type: 3}
+    - target: {fileID: 2015493214, guid: 167630e20469d2b42ad975f8762237e2, type: 3}
+      propertyPath: Tutorial
+      value: 
+      objectReference: {fileID: 6221460841418794964, guid: 47f235f83adfac7498ff3a30a8e07db7,
+        type: 3}
+    - target: {fileID: 2015493214, guid: 167630e20469d2b42ad975f8762237e2, type: 3}
+      propertyPath: visualtexture
+      value: 
+      objectReference: {fileID: 8400000, guid: d71bcd68a2676cd4d932c7e08f1a5494, type: 2}
+    - target: {fileID: 2443712653387381355, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443712653387381355, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443712653387381355, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443712653387381355, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443712653387381355, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443712653387381355, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443712653387381355, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443712653387381355, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443712653387381355, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443712653387381355, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443712653387381355, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443712653387381356, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_Name
+      value: ---Pickups
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443712653387381356, guid: 167630e20469d2b42ad975f8762237e2,
+        type: 3}
+      propertyPath: m_TagString
+      value: Pickup
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 167630e20469d2b42ad975f8762237e2, type: 3}
+--- !u!1 &2487527134061493856 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2443712653387381356, guid: 167630e20469d2b42ad975f8762237e2,
+    type: 3}
+  m_PrefabInstance: {fileID: 246773334328034316}
+  m_PrefabAsset: {fileID: 0}
+--- !u!136 &1862840377
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2487527134061493856}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  m_Radius: 0.2
+  m_Height: 0.1
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}

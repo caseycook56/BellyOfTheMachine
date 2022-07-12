@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fdb68dbb0c93b2459fdea950261f604, type: 3}
+  m_Name: Hostage 2 SoundArray
+  m_EditorClassIdentifier: 
+  audioClipArray:
+  - {fileID: 8300000, guid: 088f2d475b262de46bb2739f03ae5731, type: 3}
+  - {fileID: 8300000, guid: 1aecfb9578427a640a71bb173c0c4097, type: 3}
+  - {fileID: 8300000, guid: fd2b438ed34ecd7438952d5c34341ea4, type: 3}
+  - {fileID: 8300000, guid: 94204c7fbff755c4f8302e2d9fe3d07b, type: 3}
+  - {fileID: 8300000, guid: b335e6e0942721e4fbf961969c9b861a, type: 3}
+  - {fileID: 8300000, guid: 2d815442c21430346a560355cc593d5e, type: 3}
+  - {fileID: 8300000, guid: 419cf42582713124d8b177b007200f26, type: 3}
+  - {fileID: 8300000, guid: f96ec3b615a29a24688fd578fc6ac696, type: 3}
+  - {fileID: 8300000, guid: 797324f5a3f313e4284999c6e44218fc, type: 3}
+  - {fileID: 8300000, guid: 5cc26b76f598554489c8c67d20462358, type: 3}
+  enableRandomSpacing: 1
+  minRandomRange: 30
+  maxRandomRange: 45
+  audioClipSettings: {fileID: 4720962929724690489, guid: 4c00fdfaf739ab746985580532005985,
+    type: 3}
