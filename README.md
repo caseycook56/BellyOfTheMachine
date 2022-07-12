@@ -1,5 +1,5 @@
 # Belly Of The Machine
-A horror stealth game made in Unity using the High Definition Render Pipeline.
+A 3D horror stealth game made in Unity using the High Definition Render Pipeline, similar to games like Little Nightmares and Inside.
 A lost soul wonder through a jail and must escape by traveling through the level and attempting not the die.
 
 
